@@ -3,10 +3,8 @@
 wp_head();
 ?>    
 
-<div class="cursor-follower">
-        <div class="cursor-follower-inner"></div>
-</div>
-<main style="padding: 0; position: relative;">
+
+<main>
     <?php 
     get_header();
     ?>
